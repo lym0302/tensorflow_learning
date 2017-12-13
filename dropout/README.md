@@ -15,7 +15,7 @@ tensorboard --logdir logs1_keep_0.5
 
 ## Result
 When `keep_prob = 1`
-![_config.yml](https://github.com/lym0302/tensorflow_learning/blob/master/dropout/keep_0.5.png)
+![_config.yml](https://github.com/lym0302/tensorflow_learning/blob/master/dropout/1.png)
 
 When `keep_prob = 0.5`
-![_config.yml](https://github.com/lym0302/tensorflow_learning/blob/master/dropout/keep_1.png)
+![_config.yml](https://github.com/lym0302/tensorflow_learning/blob/master/dropout/0.5.png)
