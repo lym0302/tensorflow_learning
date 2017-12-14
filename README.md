@@ -1,14 +1,10 @@
 # tensorflow_learning
-There are some codes of my learning  about tensorflow
+There are some codes of my learning  about tensorflow.
+I learn these form a series of [video](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
+I think it is a good learning video to beginner and thanks for him.
 
-## classification 
-The classification folder concludes a python code. The main achievement of this code is use ['MNIST dataset'](http://yann.lecun.com/exdb/mnist/) to classification,
-the dataset should be put in the folder who's name is MNIST_data.
+## Description
 
-Then just run:
-
-```python 
-python classification.py
-```
+Every floder corresponds a learning module.
 
 
